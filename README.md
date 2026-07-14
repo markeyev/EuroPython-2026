@@ -1,4 +1,6 @@
-# EuroPython-2026
+# EuroPython 2026
+## Scaling Python Systems by Designing Team-Aware Architecture
+### Why your software boundaries are secretly team boundaries (and how to design both)
 
  * [Proposal](https://programme.europython.eu/europython-2026/talk/review/LU8U9TYFSJVEL9QMYPDECUY7A7XZNUTT)
  * [Abstract](https://ep2026.europython.eu/session/scaling-python-systems-by-designing-team-aware-architecture)
